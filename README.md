@@ -14,7 +14,6 @@ Recursive spectral modularity partitioning (Newman, 2006) on Zachary's Karate Cl
 4. **Visualise.** Draw the graph after each iteration with a fixed layout, one colour per community.
 5. **Compute metrics.** After each iteration, compute degree, betweenness and closeness centrality and the clustering coefficient for every node, inside its own community.
 6. **Plot.** Plot each metric against the iteration number, one line per node.
-7. **Discussion.** (to be added)
 
 ## Reference
 M. E. J. Newman (2006). Modularity and community structure in networks. *PNAS* 103(23):8577–8582.
