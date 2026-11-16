@@ -3,6 +3,7 @@
 **Course**: DSC212, Graph theory (Research assignment)<br>
 **Author**: Pavan K R<br>
 **Roll no**: IMS25146<br>
+**Institution**: IISER Thiruvananthapuram
 
 
 **Recursive spectral modularity partitioning (Newman, 2006) on Zachary's Karate Club network.**
