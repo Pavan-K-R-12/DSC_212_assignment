@@ -19,7 +19,7 @@ Our objective is to detect multiple communities in the Karate Club graph using r
 6. **Plot.** Plot each metric against the iteration number, one line per node.
 
 # AI usage statement:
-I have used Claude (anthropic) for assisting in writing the code for my project, where my knowledge was limited.
+I have understood the main concepts, objectives and overall theme of this project.I have used Claude (anthropic) for assisting in writing the code for my project, where my knowledge was limited.
 
 ## Reference
 1. M. E. J. Newman (2006). Modularity and community structure in networks. Proceedings of the National Academy of Sciences, 103(23), 8577-8582.
